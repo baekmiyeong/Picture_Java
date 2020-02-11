@@ -10,9 +10,9 @@ public class Sp1 {
 		BufferedReader br =
 				new BufferedReader(new InputStreamReader(System.in));
 		String str = br.readLine();
-		int res = Integer.parseInt(str);            //변수 res에 키보드입력을 저장
+		int res = Integer.parseInt(str);               //변수 res에 키보드입력을 저장
 		
-		if(res == 1)                                //if(조건)
+		if(res == 1)                                   //if(조건)
 		    System.out.println("1이 입력되었습니다.");   //문장;
 			//조건 참일때 문장수행
 		System.out.println("처리를 종료합니다.");

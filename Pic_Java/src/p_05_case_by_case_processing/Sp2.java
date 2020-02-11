@@ -12,7 +12,7 @@ public class Sp2 {
 		String str = br.readLine();
 		int res = Integer.parseInt(str); 
 		
-		if(res == 1) {                              //if(조건)
+		if(res == 1) {                                   //if(조건)
 			System.out.println("1이 입력되었습니다.");   //문장1;
 			System.out.println("1이 선택되었습니다.");   //문장2;
 		}
