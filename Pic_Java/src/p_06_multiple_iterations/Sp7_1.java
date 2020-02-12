@@ -1,6 +1,6 @@
 package p_06_multiple_iterations;
 
-public class Sp07 {
+public class Sp7_1 {
 //for 문 중첩하기
 	public static void main(String[] args) {
 		for(int i=0; i<5; i++) {                             		//for(식1-1; 식2-1; 식3-1)
