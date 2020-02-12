@@ -6,8 +6,8 @@ public class Sp06 {
 		int i = 1;
 		
 		do {                                            	//do {
-			System.out.println(i + "번째 반복입니다.");     //문장;
-			i++;                                          // :
+			System.out.println(i + "번째 반복입니다.");      //문장;
+			i++;                                            // :
 		} while(i <= 5);                                	//} while(조건);
 		//거짓이 되면 반복 작업 종료
 		System.out.println("반복이 끝났습니다.");
