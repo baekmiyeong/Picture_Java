@@ -12,9 +12,9 @@ public class Sp09 {
 		String str = br.readLine();
 		int res = Integer.parseInt(str);
 		
-		for(int i=1; i<=10; i++) {                   //원래는 10번 반복되어야 하지만
-			System.out.println(i + "번쨰 처리입니다.");
-			if(i == res) {                           //키보드로 입력한 숫자만큼 반복되면 탈출
+		for(int i=1; i<=10; i++) {                         //원래는 10번 반복되어야 하지만
+			System.out.println(i + "번째 처리입니다.");
+			if(i == res) {                             //키보드로 입력한 숫자만큼 반복되면 탈출
 				System.out.println("조건을 만족! ");
 				break;
 			}

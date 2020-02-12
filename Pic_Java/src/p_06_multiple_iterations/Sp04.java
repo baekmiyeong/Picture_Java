@@ -14,7 +14,7 @@ public class Sp04 {
 		
 		int sum = 0;
 		for(int i=1; i<=num; i++) {
-			sum += i;                       //i가 입력한 숫자와 같아질 때까지 연산
+			sum += i;                   //i가 입력한 숫자와 같아질 때까지 연산
 		}
 		System.out.println("1부터 " + num + "까지의 합은 " + sum + "입니다.");
 	}
