@@ -17,13 +17,13 @@ public class Sp5 {
 				System.out.println("1이 입력되었습니다.");	//문장1;
 				//경우(값) 1일때 문장수행				//break;
 				break;
-			case 2:                                          //case 값2:
-				System.out.println("2이 입력되었습니다.");        //문장2;
-				//경우(값) 2일때 문장수행                                               //break;
+			case 2:								//case 값2:
+				System.out.println("2이 입력되었습니다.");	//문장2;
+				//경우(값) 2일때 문장수행				//break;
 				break;
-			default:										//default: //생략가능
+			default:							//default: //생략가능
 				System.out.println("1 혹은 2를 입력하십시오.");	//문장D;
-				//그 이외의 경우 문장수행							//break;
+				//그 이외의 경우 문장수행				//break;
 				break;
 		}
 	}	
