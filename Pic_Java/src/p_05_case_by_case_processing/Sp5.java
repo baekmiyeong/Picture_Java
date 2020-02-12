@@ -12,10 +12,10 @@ public class Sp5 {
 		String str = br.readLine();
 		int res = Integer.parseInt(str);
 			
-		switch(res) {										//switch(식)
-			case 1:											//case 값1:
-				System.out.println("1이 입력되었습니다.");		//문장1;
-				//경우(값) 1일때 문장수행							//break;
+		switch(res) {							//switch(식)
+			case 1:							//case 값1:
+				System.out.println("1이 입력되었습니다.");	//문장1;
+				//경우(값) 1일때 문장수행				//break;
 				break;
 			case 2:                                          //case 값2:
 				System.out.println("2이 입력되었습니다.");        //문장2;
