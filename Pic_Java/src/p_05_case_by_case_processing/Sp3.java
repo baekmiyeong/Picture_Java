@@ -12,11 +12,11 @@ public class Sp3 {
 		String str = br.readLine();
 		int res = Integer.parseInt(str);
 		
-		if(res == 1) {                                      //if(조건)
-		    System.out.println("1이 입력되었습니다.");           //문장1;
+		if(res == 1) {                                           //if(조건)
+		    System.out.println("1이 입력되었습니다.");            //문장1;
 			//조건 참일때 문장수행
 		}
-		else {                                              //else
+		else {                                                   //else
 		    System.out.println("1 이외의 값이 입력되었습니다.");    //문장2;
 			//조건 거짓일때 문장수행
 		}
