@@ -16,7 +16,7 @@ public class Sp09_2 {
 			test[i] = Integer.parseInt(str);
 			
 			System.out.println("test[i]:"+test[i]);
-			//System.out.println(i + "\t" + test[i] + "\t" + test.length);
+			
 		}
 		
 		// 배열 정렬하는 로직 //
