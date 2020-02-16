@@ -25,8 +25,6 @@ public class Sp10 {
 			System.out.println((i+1) + "번째 사람의 국어 점수는  " + test[0][i] + "입니다.");
 			System.out.println((i+1) + "번째 사람의 산수 점수는  " + test[1][i] + "입니다.");
 		}
-				
-
 	}
 
 }
